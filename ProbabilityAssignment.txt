@@ -1,0 +1,197 @@
+                   PROBABILITY
+
+1. Two cards are drawn at random from a pack of cards. The probability that both are queens or diamonds is:
+a.20/221    
+b.15/221    
+c.13/221    
+d.14/221
+
+There are 52 cards in a standard deck of cards, of which there are 4 queens and 13 diamonds.
+ The probability of drawing two queens or diamonds is:
+
+4/52 x 3/51 + 13/52 x 12/51 = 20/221
+ 
+Answer : A
+​
+
+2.  From a bag containing 6 pink and 8 orange balls, 8 balls are drawn at random. The probability that 5 of them are pink and the rest are orange is
+a.16/143    
+b.19/143    
+c.17/143    
+d. 13/143
+
+Answer : C
+
+3.  From a box containing a dozen bulbs, of which exactly one half are good, 
+and four bulbs are chosen at random to fit into the four bulb holders in a room. 
+The probability that the room gets lighted is
+a.2/3      
+b.1/3      
+c.33/44    
+d. 32/33
+
+Answer : D
+
+4.  If 10 letters are to be placed in 10 addressed envelopes, then what is the probability that at least one letter is placed in wrong addressed envelope?
+a.1/10!    
+b.1/9!     
+c.1- (1/10!)           
+d.9/10
+Answer : A
+
+
+5.  I select three numbers randomly from 1 to 10. What is the probability that their product is an
+ odd number?
+
+
+a.
+1/12
+b.1/2
+c.3/4
+d.11/12
+
+Answer : A
+
+
+
+
+6.  Ramesh has a garments shop. He currently has 6 black, 4 red, 2 white and 3 blue shirts of same size in the stock. He picks 2 shirts randomly for the display. What is the probability that either both shirts are white or blue?
+
+
+a.1/105
+b.1/35
+c.4/105
+d.1/15
+
+The probability that both shirts are white is  
+
+2/15 × 1/14 = 1/105
+
+​
+ .
+
+The probability that both shirts are blue is  
+
+3/15 ×2/14 = 1/35
+​
+ .
+
+The probability that both shirts are white or blue is  
+1/105 + 1/35= 
+4/105
+Answer : C
+
+
+
+
+7. There are 6 oranges, 2 pink, 4 yellow and 3 green towels in a carton. What is the probability of picking up 2 orange towels randomly?
+
+
+a.
+1/7
+b.
+2/15
+c.
+2/7
+d.
+6/15
+solution:
+
+The probability of picking up 2 orange towels randomly is  
+1/7
+​
+There are 15 towels in the carton, 6 of which are orange. The probability of picking up an orange towel is  
+15/6
+​
+ . Now that we have picked up an orange towel, there are 14 towels left out of which 5 are orange. So the probability of picking up another orange towel is  
+14/5
+​
+ . Probability of the above two events occurring together is (6/15)(5/14), = 1/7 or 0.142857.
+Answer:A
+
+
+8. In a bag are 10 red balls and 16 green balls. If two balls are drawn one after the other without replacement, what is the probability that the first is "red" while the second one is "green"?
+
+a.18/145
+b.35/134
+c.16/65
+d.17/29
+Answer : C
+
+9. One card is drawn at random from a pack of 52 cards. What is the probability that the card drawn is a face card (Jack, Queen and King only)?
+A.3/13
+B.1/13
+C.3/52
+D.9/52
+solution:
+There are 12 face cards in a standard deck of 52 cards, so the probability of drawing a face card is  
+52/12= 13/3
+​Answer:A
+ 
+​
+ .
+10. X attempts 94 questions and gets 141 marks. If for every correct answer 4 marks is given, and for every wrong answer 1 mark is deducted, then the number of questions wrongly answered by X is __.
+A.45
+B.47
+C.57
+D.40
+solution:
+Let x be the number of questions that X answered correctly and y be the number of questions that X answered incorrectly. We know that x+y=94 and 4x−y=141. Solving for x and y, we get x=69 and y=25. Therefore, X answered 25 questions incorrectly.
+Answer : D
+
+
+11. Find the probability of selecting 2 woman when four persons are choosen at random from a group of 3 men, 2 woman and 4 children.
+A. 1/5
+B.1/6
+C.1/7
+D.1/9
+
+Answer : D
+
+
+12. What is the probability that it is either a heart card or diamond card, when a card is drawn from a well shuffled standard pack of 52 playing cards?
+A.1
+B.3/4
+C.1/2
+D.1/3
+solution:
+
+The probability of drawing a heart or diamond card is 1/2. 
+There are 13 hearts and 13 diamonds in a standard deck of 52 cards,
+ so the probability of drawing one of these cards is 26/52 = 1/2.
+answer : C
+
+13. In a single throw with 2 dices, what is probability of neither getting an even number on one and nor a multiple of 3 on other?
+A.11/36
+B.25/36
+C.5/6
+D.1/6
+solution:
+
+The probability of getting an even number on one die is 3/6. The probability of getting a multiple of 
+3 on the other die is 2/3. The probability of getting neither an even number on one die nor a multiple of 
+3 on the other die is 1 - 3/6 - 2/3 = 1/6.
+The answer is D. 1/6.
+
+14. Let K and L be events on the same sample space, with P (K) = 0.8 and P (B) = 0.6. Are these two events being disjoint?
+A. True
+B. False
+
+False. Two events are disjoint if they cannot occur at the same time. 
+In other words, the intersection of the two events is empty. In this case, the probability of 
+K is 0.8 and the probability of L is 0.6. The sum of these probabilities is 1.4, which is greater than 1.
+ This means that the two events must overlap, and therefore cannot be disjoint.
+Answer : B 
+
+
+15. Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 4 or 15?
+A. 6/19
+B. 3/10
+C. 7/10
+D. 6/17
+solution:
+
+There are 20 tickets numbered 1 to 20. The multiples of 4 are 4, 8, 12, 16, and 20. The multiples of 15 are 15. The number 20 is a multiple of both 4 and 15. Therefore, there are 5 + 1 - 1 = 5 numbers that are multiples of 4 or 15. The probability that the ticket drawn has a number which is a multiple of 4 or 15 is  
+20/5 = 10/3
+
+The answer is B. 3/10.

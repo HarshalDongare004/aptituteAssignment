@@ -1,0 +1,76 @@
+1. A leak in the bottom of a tank can empty the full tank in 6 hours. An inlet pipe fills
+water at the rate of 4 litres per minute. When the tank is full, the inlet is opened,
+and due to the leak, the tank is empty in 8 hours. Find the capacity of the tank.
+solution:
+The rate at which the leak empties the tank is 1/6 tank/hour.
+
+The rate at which the inlet pipe fills the tank is 4 liters/minute * 60 minutes/hour = 240 liters/hour.
+
+The net rate at which the tank is emptied is 1/6 tank/hour - 240 liters/hour = 40 liters/hour.
+
+Since the tank is emptied in 8 hours, the capacity of the tank is 8 hours * 40 liters/hour = 320 liters.
+
+Therefore, the capacity of the tank is 320 liters.
+
+Here is the solution in mathematical form:
+
+Let V be the capacity of the tank in liters.
+
+The rate at which the leak empties the tank is V/6 liters/hour.
+
+The rate at which the inlet pipe fills the tank is 4 liters/minute * 60 minutes/hour = 240 liters/hour.
+
+The net rate at which the tank is emptied is V/6 liters/hour - 240 liters/hour.
+
+Since the tank is emptied in 8 hours, we have the equation:
+
+V/6 - 240 = 0
+
+Solving for V, we get V = 320 liters.
+
+2. Of the 1000 inhabitants in a town, 60% are males, 20% are literate. If 25% of all the
+inhabitants 25%, are literate, then what percentage of females are literate?
+solution:
+Number of females in the town = 1000 - 60% of 1000 = 400
+Number of literates in the town = 25% of 1000 = 250
+Number of literate females in the town = 250 - 20% of 1000 = 250 - 200 = 50
+Percentage of females who are literate = 50/400 * 100 = 12.5%
+So the answer is 12.5.
+
+3. In an examination 80% candidates passed in English and 85% candidates passed
+in Mathematics. If 73% of candidates passed in both these subjects, what percent
+of candidates failed in both the subjects?
+solution:
+
+The percentage of candidates who failed in both subjects is 8%.
+
+Here is the solution:
+
+The percentage of candidates who passed in English is 80%.
+The percentage of candidates who passed in Mathematics is 85%.
+The percentage of candidates who passed in both subjects is 73%.
+
+The percentage of candidates who passed in at least one subject is 80% + 85% - 73% = 92%.
+
+Therefore, the percentage of candidates who failed in both subjects is 100% - 92% = 8%.
+
+4. The monthly income of a person is 13,500, and his monthly expenditure is 9,000.
+Next year's income increased by 14%, and his expenditure increased by 7%. Find
+percent increase in his savings is?
+solution:
+The person's monthly income is 13,500, and his monthly expenditure is 9,000. His savings is 13,500 - 9,000 = 4,500.
+
+Next year, his income increased by 14%, and his expenditure increased by 7%. His new income is 13,500 + 14% of 13,500 = 15,390. His new expenditure is 9,000 + 7% of 9,000 = 9,630. His new savings is 15,390 - 9,630 = 5,760.
+
+The percentage increase in his savings is (5,760 - 4,500) / 4,500 = 28%.
+
+Therefore, the percentage increase in his savings is 28%.
+
+5. 49 pumps can empty a tank in 10 days, working 10 hours a day. if 70 pumps are
+used for 7 hours each day then in how many days the tank can be emptied?
+solution:
+49 pumps can empty a tank in 10 days working 10 hours a day. This means that the pumps can empty 1/10 of the tank in 1 day, working 10 hours.
+
+If 70 pumps are used for 7 hours each day, then the pumps can empty 1/10 * 70/49 * 7/10 = 1/5 of the tank in 1 day.
+
+Therefore, the tank can be emptied in 5 days.

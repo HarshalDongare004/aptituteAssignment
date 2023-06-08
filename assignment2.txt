@@ -1,0 +1,96 @@
+1. What quantity of water should be added to the milk water mixture so that
+the milk water ratio changes from 2:3 to 4:11. The quantity of milk in the
+mixture is 40 litres?
+SOLUTION:
+
+The current ratio of milk to water is 2:3, which means that there is 2/5 = 40% milk 
+and 3/5 = 60% water in the mixture. If we add water to the mixture, the percentage of milk will 
+decrease and the percentage of water will increase.
+
+The new ratio of milk to water is 4:11, which means that there is 4/15 = 26.67% milk 
+and 11/15 = 73.33% water in the mixture.
+
+To find the amount of water that needs to be added, we can use the following equation:
+
+(Percentage of water in new mixture) - (Percentage of water in current mixture) = (Amount of water added)/(Total volume of mixture)
+
+Plugging in the values, we get:
+0.7333 - 0.6 = (Amount of water added)/(40 liters)
+0.1333 = (Amount of water added)/(40 liters)
+(Amount of water added) = 0.1333 * 40 liters
+(Amount of water added) = 5.33 liters
+Therefore, 5.33 liters of water must be added to the milk-water mixture to change the ratio of milk to water from 2:3 to 4:11.
+
+
+2. Linear equation 2x+3y=0 meets the x & y-axis at the point?
+SOLUTION:
+
+The linear equation 2x+3y=0 meets the x-axis at the point (3,0) and the y-axis at the point (0,-2).
+
+To find the point where the line meets the x-axis, we can set y=0 and solve for x. 
+This gives us the equation 2x=0, which has the solution x=0. 
+Substituting this value of x into the original equation, we get 2(0)+3y=0, which simplifies to 3y=0.
+ Therefore, y=0 at the point where the line meets the x-axis.
+
+To find the point where the line meets the y-axis, we can set x=0 and solve for y.
+ This gives us the equation 3y=0, which has the solution y=0. 
+Substituting this value of x into the original equation, we get 2(0)+3(0)=0, which is always true. 
+Therefore, y=0 at the point where the line meets the y-axis.
+
+3. a & b are positive integers such that a^2-b^=19. Find a & b?
+SOLUTION:
+The two positive integers a and b such that a^2-b^2=19 are 10 and 9.
+
+To solve for a and b, we can use the following equation:
+a^2-b^2=(a+b)(a-b)
+We know that a^2-b^2=19, so we can substitute this value into the equation above. This gives us:
+
+19=(a+b)(a-b)
+We know that both a and b are positive integers, so (a+b) and (a-b) must be two integers that multiply to 19. The only two pairs of integers that satisfy this condition are (10,1) and (9,2).
+
+Since a and b must be positive integers, we can conclude that a=10 and b=9.
+
+
+4. Find a^+b^3+c^3+3abc , where a+b+c=5 & , a^2+b^2+c^2=10?
+SOLUTION:
+a^3+b^3+c^3 = 3abc + (a+b+c)(a^2+b^2+c^2-ab-ac-bc)
+We know that a+b+c=5 and a^2+b^2+c^2=10, so we can substitute these values into the identity above. This gives us:
+a^3+b^3+c^3 = 3abc + (5)(10-ab-ac-bc)
+We also know that ab+ac+bc = (a+b+c)^2 - 2(a^2+b^2+c^2) = 5^2 - 2(10) = -5.
+
+Substituting this value into the equation above, we get:
+a^3+b^3+c^3 = 3abc + (5)(10-(-5))
+a^3+b^3+c^3 = 3abc + 75
+abc = (a+b+c)^3 - a^3-b^3-c^3
+Substituting the values of a+b+c and a^3+b^3+c^3 into the equation above, we get:
+abc = (5)^3 - 75
+abc = 50
+a^3+b^3+c^3+3abc = 50 + 3(50)
+a^3+b^3+c^3+3abc = 200
+Therefore, the value of a^3+b^3+c^3+3abc is 200.
+
+
+
+
+5. Sum of two, two-digit numbers is a perfect square. The digits of the first
+two-digit number are two consecutive positive integers; also, when the digits
+of the first number are reversed, the second number is formed. Find these
+numbers & the square root of their sum.
+SOLUTION:
+	
+The two numbers are 12 and 21, and the square root of their sum is 14.
+
+To solve this, we can use the following steps:
+
+List all the two-digit numbers that are formed by two consecutive positive integers.
+For each number, reverse the digits and see if the new number is also a two-digit number.
+For each pair of numbers that satisfy the conditions, find the sum of the two numbers.
+The square root of the sum of the two numbers is the answer.
+12 and 21
+13 and 31
+14 and 41
+15 and 51
+The only pair of numbers that satisfies the condition that the sum of the two numbers is a 
+perfect square is 12 and 21. The sum of 12 and 21 is 33, which is a perfect square. 
+The square root of 33 is 11.7, which is approximately 14.
+ Therefore, the two numbers are 12 and 21, and the square root of their sum is 14.

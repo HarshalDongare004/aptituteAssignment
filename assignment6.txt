@@ -1,0 +1,96 @@
+1. A does 4/5 th of work in 3/5 of time as compared to B. Together they finish the work
+in 12 days. In how many days A alone will complete the work?
+solution:
+work from A = 4/5 compared to B
+time taken by A = 3/5 compared to B
+A + B = 12
+
+Efficiency From A = 1/time taken
+ = 5/3
+
+Time taken from A = 12 * 5/3
+ 	= 20 days
+Therefore 20 days required to complete the work from Alone A.
+
+2. 1 men , 3 women and 4 children finish work in 96 hour while 2 men and 8 children
+finish the work in 80 hours, and 2 men and 3 women finish the same work in 120
+hours. Find the time in which the work can be completed by 10 men and 5 women?
+solution:
+1 man, 3 women and 4 children finish work in 96 hour while 2 men and 8 children finish the work in 80 hours, and 2 men and 3 women finish the same work in 120 hours.
+
+Let 1 man do m work in 1 hour, 1 woman do w work in 1 hour and 1 child do c work in 1 hour.
+
+Then, m + 3w + 4c = 1/96 work in 1 hour
+2m + 8c = 1/80 work in 1 hour
+2m + 3w = 1/120 work in 1 hour
+
+Solving these equations, we get m = 1/480 work in 1 hour, w = 1/720 work in 1 hour and c = 1/960 work in 1 hour.
+
+Therefore, 10 men and 5 women do 10m + 5w = 10/480 + 5/720 = 1/36 work in 1 hour.
+
+Hence, 10 men and 5 women can complete the work in 36 hours.
+
+
+
+3. The sales of a cinema ticket increase by 57 1/7 %, and the price of tickets also
+increases by 16 2/3%. Find the percentage increase in the revenue collection?
+solution:
+The percentage increase in the sales of a cinema ticket is 57 1/7 % = 400/7 %.
+The percentage increase in the price of tickets is 16 2/3 % = 50/3 %.
+
+The percentage increase in the revenue collection is (400/7 + 50/3) / 100 = 26.16666666666667%.
+
+Therefore, the percentage increase in the revenue collection is 26.16666666666667%.
+
+4. In a garrison, there was sufficient food for 1600 soldiers for 60 days. Each soldier
+consumes 900 grams of food every day. After 40 days, 400 soldiers left the camp.
+How long the food will last for the remaining soldiers if they consume 1000 grams of
+food every day.
+solution:
+The total food consumed by 1600 soldiers in 60 days is 160090060 = 86400000 grams.
+After 40 days, the remaining food is 86400000 - 160090040 = 43200000 grams.
+The number of soldiers left in the camp is 1600-400 = 1200.
+The number of grams of food consumed by each soldier every day is 1000 grams.
+The number of days the food will last for the remaining soldiers is 43200000 / 1200*1000 = 4 days.
+
+So the answer is 4
+
+
+5. A dealer sold a bicycle at a profit of 10%. Had he bought the bicycle at 10% less price
+and sold it at a price Rs. 60 more, he would have gained 25%. The cost price of the
+bicycle was?
+solution:
+Let the cost price of the bicycle be Rs. x.
+
+When the dealer sold the bicycle at a profit of 10%, he got Rs. 1.1x.
+
+If he had bought the bicycle at 10% less price, the cost price would have been Rs. 0.9x.
+
+If he had sold the bicycle at a price Rs. 60 more, he would have got Rs. 1.25 * 0.9x = Rs. 1.125x.
+
+We know that 1.1x = 1.125x + 60
+
+=> 0.025x = 60
+
+=> x = 60/0.025 = 2400
+
+Therefore, the cost price of the bicycle is Rs. 2400.
+
+Here is the solution in a more mathematical way:
+
+Let the cost price of the bicycle be Rs. x.
+
+The dealer sold the bicycle at a profit of 10%, so the selling price was Rs. 1.1x.
+
+If he had bought the bicycle at 10% less price, the cost price would have been Rs. 0.9x.
+
+He would have gained 25% if he had sold the bicycle at a price Rs. 60 more, so the new selling price would have been Rs. 1.25 * 0.9x = Rs. 1.125x.
+
+We know that 1.1x = 1.125x + 60
+
+=> 0.025x = 60
+
+=> x = 2400
+
+Therefore, the cost price of the bicycle is Rs. 2400.
+

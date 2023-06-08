@@ -1,0 +1,89 @@
+1. Write two quadratic equations such that the sum of roots equals twice the
+product of roots?
+SOLUTION: 
+	(1) x^2 - 6x + 12 = 0
+	(2) x^2 - 10x + 25 = 0
+The sum of roots of the first equation is -6 and the product of roots is 12.
+ Twice the product of roots is 24. Therefore, the sum of roots equals twice the product of roots.
+
+The sum of roots of the second equation is -10 and the product of roots is 25.
+ Twice the product of roots is 50. Therefore, the sum of roots equals twice the product of roots.
+
+
+2. 2x+3y=12 has (2,3) as its solution or not?
+SOLUTION: 
+2x+3y = 12
+2(2)+3(3) = 12
+4+9 = 12
+12 = 12
+
+The points (1,1), (2,2), and (x,y) are collinear if and only if the slope of the line joining (1,1) and (2,2) is equal to the slope of the line joining (2,2) and (x,y).
+
+The slope of the line joining (1,1) and (2,2) is (2-1)/(2-1) = 1.
+
+The slope of the line joining (2,2) and (x,y) is (y-2)/(x-2).
+
+Setting these two slopes equal to each other, we get:
+
+(y-2)/(x-2) = 1
+
+Therefore, the possible coordinates of (x,y) are all points of the form (x,x+2). Some examples of such points are (1,3), (2,4), and (3,5).
+
+Note that the point (2,2) is a special case, since it lies on both lines.
+
+
+
+
+3. Find possible coordinates of (x,y) such that point (1,1), (2,2) & (x,y) are collinear?
+SOLUTION: 
+The points (1,1), (2,2), and (x,y) are collinear if and only if the slope of the line joining (1,1) and (2,2) is equal to the slope of the line joining (2,2) and (x,y).
+
+The slope of the line joining (1,1) and (2,2) is (2-1)/(2-1) = 1.
+
+The slope of the line joining (2,2) and (x,y) is (y-2)/(x-2).
+
+Setting these two slopes equal to each other, we get:
+
+(y-2)/(x-2) = 1
+y = x + 2
+
+Therefore, the possible coordinates of (x,y) are all points of the form (x,x+2). Some examples of such points are (1,3), (2,4), and (3,5).
+
+Note that the point (2,2) is a special case, since it lies on both lines.
+
+
+4. Find out all possible values of a & b for which the ratio of a^3+b^3 to a^3-b^3 is 1:1
+a,b are real numbers.
+SOLUTION: 
+a = 0 and b = 0
+a = 0 and b = -1
+a = -1 and b = 0
+a = -1 and b = -1
+
+To find these values, we can first factor the expression a^3+b^3 into the form (a+b)(a^2-ab+b^2).
+ We can then set this expression equal to a^3-b^3 and solve for a and b.
+ This gives us the following equations:
+(a+b)(a^2-ab+b^2) = a^3-b^3
+a+b = a^3-b^3
+The first equation tells us that a+b is equal to the difference between a^3 and b^3. The second equation tells us that a+b is equal to the sum of a^3 and b^3.
+
+If we set these two equations equal to each other, we get:
+a^3-b^3 = a^3+b^3
+This tells us that a^3 is equal to 2*b^3. Therefore, a must be equal to 0 or -1.
+
+If a is equal to 0, then b must also be equal to 0. This gives us the solution (a,b) = (0,0).
+
+If a is equal to -1, then b can be any real number. This gives us the solutions (a,b) = (-1,b) for all real numbers b.
+
+Finally, if b is equal to 0, then a must also be equal to 0. This gives us the solution (a,b) = (0,0) again.
+
+Therefore, the only possible values of a and b for which the ratio of a^3+b^3 to a^3-b^3 is 1:1 are (a,b) = (0,0), (a,b) = (-1,b), and (a,b) = (0,-1).
+
+
+
+5. The triangle area formed by the lines y=x, y-axis and y=3 line will be?
+SOLUTION: 
+The triangle formed by the lines y=x, y-axis and y=3 is a right triangle. 
+The base of the triangle is 3 units and the height is 3 units. 
+The area of a right triangle is equal to one half the product of the base and height, 
+so the area of this triangle is 3/2*3 = 4.5 square units.

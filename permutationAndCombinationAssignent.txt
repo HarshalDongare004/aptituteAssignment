@@ -1,0 +1,218 @@
+PERMUTATIONS AND COMBINATIONS
+1. A round table conference is to be held among 25 delegates from 25 countries. In how many ways can they be seated if two particular delegates are always to sit together?
+A. 23!
+B. 2! ×23!
+C. 3! ×23!
+D. None of these
+solution:
+The number of ways to seat 25 delegates around a table is 24!. 
+If two particular delegates are always to sit together, we can consider them as one unit. 
+Then, the number of ways to seat 24 delegates (23 delegates and 1 unit) around a table is 23!. 
+The two delegates can sit together in 2! ways. Therefore, the number of ways to seat 25 delegates
+ around a table if two particular delegates are always to sit together is 2! × 23!. 
+The answer is B.
+
+2. In how many ways can 5 boys and 4 girls be seated in a row, so that they alternate?
+A. 5!
+B. 5!×2!
+C. 4!×5!
+D. None of these
+solution:
+The number of ways to seat 5 boys and 4 girls in a row so that they alternate is 5! × 4!.
+
+There are 5 boys and 4 girls. The boys can be seated in 5! ways. The girls can be seated in 4! ways.
+ Therefore, the number of ways to seat 5 boys and 4 girls in a row so that they alternate is 5! × 4!.
+ The answer is C.
+
+3. In how many ways can the letters of the word 'LEADER' be arranged?
+
+A.
+72
+B.
+144
+C.
+360
+D.
+720
+solution:
+
+The word 'LEADER' has 6 letters, but the letter 'E' is repeated twice. 
+Therefore, the number of ways to arrange the letters of the word 'LEADER' is 6!/2! = 360.
+
+The answer is C.
+
+
+
+
+4. A box contains 2 white balls, 3 black balls and 4 red balls. In how many ways can 3 balls be drawn
+ from the box, if at least one black ball is to be included in the draw?
+
+A.
+32
+B.
+48
+C.
+64
+D.
+96
+solution:
+
+The total number of ways to draw 3 balls from the box is 9C3 = 84.
+
+The number of ways to draw 3 balls without any black balls is 6C3 = 20.
+
+Therefore, the number of ways to draw 3 balls with at least one black ball is 84 - 20 = 64.
+
+The answer is C.
+
+
+
+5.  How many numbers greater than a million can be formed with the digits 2,3,0,4,3,3,3 ?
+A. 300
+B. 360
+C. 440
+D. 620
+solution:
+There are 360 numbers greater than a million that can be formed with the digits 2, 3, 0, 4, 3, 3, 3.
+
+The number of possible arrangements of these 7 digits is 7! = 5040. However, some of these arrangements will result in the same number, such as 333302 and 233330. To account for this, we need to divide 5040 by 7, the number of ways to arrange the 7 digits without regard to their value. This gives us 720 possible unique numbers.
+
+Of these 720 numbers, only those that start with 2 or 3 will be greater than a million. There are 360 numbers that start with 2 and 360 numbers that start with 3, for a total of 720 numbers greater than a million.
+
+Therefore, the answer is 360(B).
+
+
+6. A gentleman has got 6 sorts of note papers, 7 different ink-stands and 4 different pens. In how many ways can he begin to write a letter?
+A. 168
+B. 176
+C. 186
+D. 196
+solution:
+The gentleman has 6 choices for the type of note paper, 7 choices for the type of ink, and 4 choices 
+for the type of pen. Therefore, there are 6 * 7 * 4 = 168 ways for him to begin to write a letter.
+Answer : A
+
+7. How many different words can be formed from the alphabets of the word SCISSORS?
+     A. 1440        
+     B. 1680               
+     C. 1800            
+     D. 2100
+solution:
+
+The word SCISSORS has 7 letters, but the letters S and C are repeated twice. 
+Therefore, the number of ways to arrange the letters of the word SCISSORS is 7!/2!2! = 1440.
+
+
+8.  A team of 8 students goes on an excursion, in two cars, of which one can seat 5 and the other only 4.
+ In how many ways can they travel?
+A) 9        
+B)26              
+C)126             
+D) 3920
+solution:
+There are 8 students and the maximum capacity of the cars together is 9. So, we can choose 5 students to go in the first car and 3 students to go in the second car. The number of ways to do this is 8C5 = 56.
+
+We can also choose 4 students to go in the first car and 4 students to go in the second car. The number of ways to do this is 8C4 = 70.
+
+Therefore, the total number of ways that the students can travel is 56 + 70 = 126.
+
+
+9.  How many ways can 10 letters be posted in 5 post boxes, if each of the post boxes can take more than 10 letters?
+A) 510                  
+B) 105           
+C) 10P5 
+D) 10C5
+solution:
+
+
+Each of the 10 letters can be posted in any of the 5 boxes. So, the first letter has 5 options, so does the second letter and so on and so forth for all of the 10 letters. i.e. 555*…. *5 (upto 10 times) = 510.
+Answer : A
+
+
+10. In how many ways can 15 people be seated around two round tables with seating capacities of 7 and 8 people?
+A) 15!/(8!)            
+B) 7!*8!            
+C) (15C8)*6!*7!            
+D)2*(15C7)*6!*7!
+solution:
+First, we need to select 7 among 15 for sitting around the first round table. 
+It can be done in (15C7) = 6435 ways. Now, the 7 persons can sit around the first round table in
+ {(7 - 1)!} = (6!) = 720 ways for each of the above selection.
+
+Now, we have 8 people left to be seated around the second table. They can be seated in {(8 – 1)!} = (7!) = 5040 ways for each sitting arrangement around the first round table. So, the answer is (64357205040).
+
+
+
+Therefore, we need to divide the above answer by 2 to account for this. 
+The final answer is 2*(15C7)*6!*7!.
+Answer : D
+
+
+11. In how many ways can the letters of the word EDUCATION be rearranged so that the relative position of the vowels and consonants remain the same as in the word EDUCATION?
+A) 9!/4    
+B) 9!/(4!*5!)
+C) 4!*5!
+D) None of these
+solution:
+The 5 vowels can be arranged in the 1st, 3rd, 5th, 7th, and 8th positions in 5! ways. 
+The 4 consonants can be arranged in the 2nd, 4th, 6th, and 9th positions in 4! ways.
+ Therefore, the total number of ways to rearrange the letters of the word EDUCATION so that the relative
+ position of the vowels and consonants remain the same is 5!×4!=24×120=2880.
+Answer: C
+
+
+12.  There are 2 brothers among a group of 20 persons. In how many ways can the group be arranged around a circle so that there is exactly one person between the two brothers?
+A) 2 * 19!             
+B)18! * 18                 
+C) 19! * 18               
+D)2 * 18!
+solution:
+There are 20 people in the group, including 2 brothers. We can think of the 2 brothers and the person
+ between them as a single unit. There are 18 ways to choose the person who will be between the brothers.
+ There are 17! ways to arrange the 18 units (17 people and the 3-person unit) around the circle.
+ The brothers can be arranged on either side of the person in between them in 2! ways. 
+Therefore, the total number of ways to arrange the group so that there is exactly one person between
+ the two brothers is 18×17!×2=2×18!.
+Answer : D
+
+13.A selection is to be made for one post of principal and two posts of vice-principal amongst the six candidates called for the interview only two are eligible for the post of principal while they all are eligible for the post of vice-principal. The number of possible combinations of selectees is:
+A. 4
+B. 12
+C. 18
+D. 20
+solution:
+
+There are 6 candidates, 2 of whom are eligible for the post of principal and all of whom are eligible
+ for the post of vice-principal. There are 2 ways to choose the principal and 10 ways to choose the 2 
+vice-principals. Therefore, the total number of possible combinations of selectees is 2×10=20.
+
+The answer is D.
+
+14. In how many different ways can five friends sit for a photograph of five chairs in a row?
+A. 120 ways       
+B. 24 ways        
+ C. 240 ways           
+ D. 720 ways
+solution:
+
+There are 5 friends and 5 chairs in a row. Any of the 5 friends can sit in the first chair.
+ Once the first chair is occupied, any of the remaining 4 friends can sit in the second chair. 
+Once the first two chairs are occupied, any of the remaining 3 friends can sit in the third chair, and so on.
+ Therefore, the total number of ways to arrange the 5 friends in the 5 chairs is 5×4×3×2×1=120.
+Answer : A
+
+15. In a room there are 12 bulbs of the same wattage, each having a separate switch. The number of ways to light the room with different amounts of illumination is
+A.122-1
+B. 212
+C.212-1
+D. none of these
+
+solution:
+
+There are 12 bulbs in the room, each with a separate switch. Each switch can be either ON or OFF. The number of ways to light the room with different amounts of illumination is the number of ways to choose which switches are ON and which are OFF. There are 2 possible states for each switch, so there are 2 
+12
+  possible combinations of switch states. However, one of these combinations is the combination in 
+which all of the switches are OFF, and this combination does not provide any illumination.
+ Therefore, the total number of ways to light the room with different amounts of illumination is 2^12−1.
+Answer : C
+

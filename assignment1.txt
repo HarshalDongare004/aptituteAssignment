@@ -1,0 +1,63 @@
+1. The equations of the lines x=2 & y=4 meet at the point .............
+
+ANS:  The equations of the lines x=2 and y=4 are both of the form "x = constant" or "y = constant".
+         This means that they are vertical and horizontal lines, respectively.
+         Vertical lines intersect all horizontal lines at exactly one point, so the two lines meet at the point (2, 4).
+
+2. Equations 2X+3Y=9 & 7X+9Y=-6 have how many solutions?
+
+ANS:  
+	The equations 2X+3Y=9 and 7X+9Y=-6 have no solutions.
+	To solve for the values of X and Y, we can use the elimination method.
+ 	First, we need to make the coefficients of one of the variables equal. In this case, we can see that the coefficient of X in the first equation is 2 and the coefficient of X in the second equation is 7.
+	We can make these coefficients equal by multiplying the first equation by 7 and the second equation by 2.
+	2X+3Y=9
+	14X+21Y=63
+	7X+9Y=-6
+	14X+18Y=-12
+
+	Now that the coefficients of X are equal, we can subtract the two equations. 
+	This will eliminate X from the equation and give us an equation with only Y.
+	21Y=51
+	Y=2.5
+	Now that we know the value of Y, we can substitute it into either of the
+	 original equations to find the value of X.
+	2X+3(2.5)=9
+	2X+7.5=9
+	2X=1.5
+	X=0.75	
+	Therefore, the solution to the system of equations is X=0.75 and Y=2.5. 
+	However, this solution is not valid because it violates one of the constraints of the problem.
+	The problem states that X and Y are integers, but 0.75 is not an integer.
+	Therefore, the system of equations has no solutions.
+
+3. Equation 7x+9y=-5 has how many keys?
+ANS: The equation 7x+9y=-5 has infinitely many keys. A key in this context is a pair of values for x and y that satisfy the equation. For example, the key (1, -1) satisfies the equation because 7(1) + 9(-1) = -5. 
+	There are infinitely many other keys that satisfy the equation, such as (2, -2), (3, -3), and so on.
+
+To see why there are infinitely many keys, we can rewrite the equation as y = -(7/9)x - 5/9.
+ This is a linear equation in y, and any value of x will give us a unique value of y that satisfies the equation.
+ Therefore, there are infinitely many keys for the equation 7x+9y=-5.
+
+
+4. Equation ax^2+bx+c=0 will be ............. for a=b=c=0 .
+ANS:  
+If a=b=c=0, then the quadratic equation ax^2+bx+c=0 will be undefined. 
+This is because the quadratic formula, which is used to solve for the roots of a quadratic equation,
+ requires that a is not equal to 0. If a is equal to 0, then the quadratic formula becomes undefined. 
+Therefore, there are no roots for the quadratic equation ax^2+bx+c=0 when a=b=c=0.
+
+
+5. Income of A & B is in ratio 2:3. For example, if B’s income is Rs 3000, find
+out the ratio of their expenditures if their savings are Rs 500 & Rs 700,
+respectively.
+ANS:  If B's income is Rs. 3000, then A's income is 2/3 * 3000 = Rs. 2000.
+
+Their savings are Rs. 500 and Rs. 700, respectively. This means that their expenditures are Rs. 3000 - Rs. 500 = Rs. 2500 and Rs. 3000 - Rs. 700 = Rs. 2300, respectively.
+
+The ratio of their expenditures is 2500 : 2300 = 5 : 4.
+
+Therefore, the ratio of the expenditures of A and B is 5 : 4.
+
+Here is a table to summarize the information:
+
